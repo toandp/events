@@ -6,7 +6,7 @@ The EventEmitter is a simple pattern that allows you to create an object that em
 
 ### Install
 ```sh
-composer require toandp/events --update-no-dev
+composer require toandp/events
 ```
 
 ### Simple example

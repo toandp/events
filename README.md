@@ -1,4 +1,4 @@
-# JBZoo Event  [![Build Status](https://travis-ci.org/JBZoo/Event.svg?branch=master)](https://travis-ci.org/JBZoo/Event)      [![Coverage Status](https://coveralls.io/repos/JBZoo/Event/badge.svg?branch=master&service=github)](https://coveralls.io/github/JBZoo/Event?branch=master)
+# PHP tdp\events
 
 #### PHP tdp/di A simple PHP event system
 

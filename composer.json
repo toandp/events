@@ -1,0 +1,29 @@
+{
+    "name": "toandp/events",
+    "type": "library",
+    "description": "A simple PHP event system",
+    "keywords": [
+        "events",
+        "event-manager",
+        "listener",
+        "hook",
+        "signal"
+    ],
+    "homepage": "https://github.com/toandp/di",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Toan Dinh",
+            "email": "toandp@tdpsoft.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "psr/container": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tdp\\events\\": "src/"
+        }
+    }
+}
